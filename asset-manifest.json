@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/ophthalmology-ai/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ophthalmology-ai/static/js/main.e448379f.chunk.js",
-    "main.js.map": "/ophthalmology-ai/static/js/main.e448379f.chunk.js.map",
-    "runtime-main.js": "/ophthalmology-ai/static/js/runtime-main.25d0b8b4.js",
-    "runtime-main.js.map": "/ophthalmology-ai/static/js/runtime-main.25d0b8b4.js.map",
+    "main.js": "/ophthalmology-ai/static/js/main.086ad8a7.chunk.js",
+    "main.js.map": "/ophthalmology-ai/static/js/main.086ad8a7.chunk.js.map",
+    "runtime-main.js": "/ophthalmology-ai/static/js/runtime-main.4621b592.js",
+    "runtime-main.js.map": "/ophthalmology-ai/static/js/runtime-main.4621b592.js.map",
     "static/css/2.0da72163.chunk.css": "/ophthalmology-ai/static/css/2.0da72163.chunk.css",
-    "static/js/2.d0287555.chunk.js": "/ophthalmology-ai/static/js/2.d0287555.chunk.js",
-    "static/js/2.d0287555.chunk.js.map": "/ophthalmology-ai/static/js/2.d0287555.chunk.js.map",
-    "static/js/3.e34abb73.chunk.js": "/ophthalmology-ai/static/js/3.e34abb73.chunk.js",
-    "static/js/3.e34abb73.chunk.js.map": "/ophthalmology-ai/static/js/3.e34abb73.chunk.js.map",
+    "static/js/2.3437596a.chunk.js": "/ophthalmology-ai/static/js/2.3437596a.chunk.js",
+    "static/js/2.3437596a.chunk.js.map": "/ophthalmology-ai/static/js/2.3437596a.chunk.js.map",
+    "static/js/3.243f611f.chunk.js": "/ophthalmology-ai/static/js/3.243f611f.chunk.js",
+    "static/js/3.243f611f.chunk.js.map": "/ophthalmology-ai/static/js/3.243f611f.chunk.js.map",
     "index.html": "/ophthalmology-ai/index.html",
     "static/css/2.0da72163.chunk.css.map": "/ophthalmology-ai/static/css/2.0da72163.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/ophthalmology-ai/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d0287555.chunk.js.LICENSE.txt": "/ophthalmology-ai/static/js/2.d0287555.chunk.js.LICENSE.txt",
+    "static/js/2.3437596a.chunk.js.LICENSE.txt": "/ophthalmology-ai/static/js/2.3437596a.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/ophthalmology-ai/static/media/outline-icons.ddae9b1b.woff",
     "static/media/cybersight-logo.46d41ccb.png": "/ophthalmology-ai/static/media/cybersight-logo.46d41ccb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.25d0b8b4.js",
+    "static/js/runtime-main.4621b592.js",
     "static/css/2.0da72163.chunk.css",
-    "static/js/2.d0287555.chunk.js",
+    "static/js/2.3437596a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e448379f.chunk.js"
+    "static/js/main.086ad8a7.chunk.js"
   ]
 }
